@@ -1,7 +1,7 @@
 # Web-Application
 Multi Tier Web Application Setup Locally
 
-**The objective of this project is to set up a web application stack locally to gain a baseline for upcoming projects and R & D **
+**The objective of this project is to set up a web application stack locally to gain a baseline for upcoming projects and R & D**
 
 TOOLS 
 > HYPERVISOR - Oracle VM VirtualBox 
