@@ -28,3 +28,14 @@ Vagrant will be used to automate the deploy of vms on VirtualBox and run the bas
 - mysql.sh script for setup of mariadb-server and database configuration
 - memcached setup of memcached service
 - application.properties this file contains the different configuration which is required to run the application in a different environment
+
+
+<sub>THIS PROJECT WAS DEPLOYED MANUAL FOR TRAINING AND AUTOMATED, VALIDATION:</sub>
+
+![Captura de tela 2023-02-20 214912](https://user-images.githubusercontent.com/95035624/220463475-f0b6d59c-2b8a-4300-9cb8-aa160eede3cb.png)
+
+![Captura de tela 2023-02-20 215832](https://user-images.githubusercontent.com/95035624/220463489-10b7ba1a-e5cb-4966-80a0-7b96a45afe19.png)
+
+![Captura de tela 2023-02-20 221345](https://user-images.githubusercontent.com/95035624/220463499-b51851ea-e56d-45ad-8d4a-3824f642fe48.png)
+
+![Captura de tela 2023-02-20 221531](https://user-images.githubusercontent.com/95035624/220463506-e6840413-12b0-40af-9b84-8fa550804d18.png)
